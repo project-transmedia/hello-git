@@ -1,2 +1,2 @@
-print ("Hello World")
-print ("Como esta?")
+print ("New Hello World")
+print ("New Como esta?")
